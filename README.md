@@ -1,2 +1,2 @@
 # C-language-code
-For c-language code
+Repository for c-language code 
